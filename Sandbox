@@ -1,0 +1,16 @@
+April 13
+Access Details:
+The read-only Meraki sandbox network can be accessed via Meraki Cloud based dashboard at:
+DevNet Always On Read Only
+Using the following credentials:
+Username: devnetmeraki@cisco.com
+Password:ilovemeraki
+You can also use this API key for the Dashboard API: 6bec40cf957de430a6f1f2baa056b99a4fac9ea0
+Learning Labs:
+Meraki Module - All of the learning labs offered covering all of Meraki's integration points. Labs cover using the Dashboard API for network management, adding Location Scanning to your application, and creating and deploying Captive Portals/Splash pages.
+Resources:
+Cisco DevNet Meraki Developer Portal
+Explore solutions built with Meraki
+Getting Started with Meraki Learning Lab Module
+Sandbox Support
+===================dd
